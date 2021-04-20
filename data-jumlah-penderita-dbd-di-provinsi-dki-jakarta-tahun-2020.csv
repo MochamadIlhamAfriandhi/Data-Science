@@ -1,0 +1,529 @@
+tahun,bulan,kota_administrasi,kecamatan,penderita_dbd,meninggal
+2020,01,Jakarta Pusat,Cempaka Putih,1,0
+2020,02,Jakarta Pusat,Cempaka Putih,4,0
+2020,03,Jakarta Pusat,Cempaka Putih,15,0
+2020,04,Jakarta Pusat,Cempaka Putih,18,0
+2020,05,Jakarta Pusat,Cempaka Putih,8,0
+2020,06,Jakarta Pusat,Cempaka Putih,3,0
+2020,07,Jakarta Pusat,Cempaka Putih,0,0
+2020,08,Jakarta Pusat,Cempaka Putih,0,0
+2020,09,Jakarta Pusat,Cempaka Putih,0,0
+2020,10,Jakarta Pusat,Cempaka Putih,0,0
+2020,11,Jakarta Pusat,Cempaka Putih,2,0
+2020,12,Jakarta Pusat,Cempaka Putih,0,0
+2020,01,Jakarta Pusat,Gambir,0,0
+2020,02,Jakarta Pusat,Gambir,7,0
+2020,03,Jakarta Pusat,Gambir,4,0
+2020,04,Jakarta Pusat,Gambir,5,0
+2020,05,Jakarta Pusat,Gambir,3,0
+2020,06,Jakarta Pusat,Gambir,0,0
+2020,07,Jakarta Pusat,Gambir,0,0
+2020,08,Jakarta Pusat,Gambir,0,0
+2020,09,Jakarta Pusat,Gambir,0,0
+2020,10,Jakarta Pusat,Gambir,0,0
+2020,11,Jakarta Pusat,Gambir,0,0
+2020,12,Jakarta Pusat,Gambir,0,0
+2020,01,Jakarta Pusat,Johar Baru,2,0
+2020,02,Jakarta Pusat,Johar Baru,4,0
+2020,03,Jakarta Pusat,Johar Baru,13,0
+2020,04,Jakarta Pusat,Johar Baru,11,0
+2020,05,Jakarta Pusat,Johar Baru,5,0
+2020,06,Jakarta Pusat,Johar Baru,2,0
+2020,07,Jakarta Pusat,Johar Baru,2,0
+2020,08,Jakarta Pusat,Johar Baru,0,0
+2020,09,Jakarta Pusat,Johar Baru,0,0
+2020,10,Jakarta Pusat,Johar Baru,0,0
+2020,11,Jakarta Pusat,Johar Baru,0,0
+2020,12,Jakarta Pusat,Johar Baru,0,0
+2020,01,Jakarta Pusat,Kemayoran,8,0
+2020,02,Jakarta Pusat,Kemayoran,5,0
+2020,03,Jakarta Pusat,Kemayoran,16,0
+2020,04,Jakarta Pusat,Kemayoran,29,0
+2020,05,Jakarta Pusat,Kemayoran,27,0
+2020,06,Jakarta Pusat,Kemayoran,5,0
+2020,07,Jakarta Pusat,Kemayoran,1,0
+2020,08,Jakarta Pusat,Kemayoran,0,0
+2020,09,Jakarta Pusat,Kemayoran,0,0
+2020,10,Jakarta Pusat,Kemayoran,0,0
+2020,11,Jakarta Pusat,Kemayoran,1,0
+2020,12,Jakarta Pusat,Kemayoran,0,0
+2020,01,Jakarta Pusat,Menteng,2,0
+2020,02,Jakarta Pusat,Menteng,6,0
+2020,03,Jakarta Pusat,Menteng,19,0
+2020,04,Jakarta Pusat,Menteng,7,0
+2020,05,Jakarta Pusat,Menteng,3,0
+2020,06,Jakarta Pusat,Menteng,0,0
+2020,07,Jakarta Pusat,Menteng,0,0
+2020,08,Jakarta Pusat,Menteng,0,0
+2020,09,Jakarta Pusat,Menteng,0,0
+2020,10,Jakarta Pusat,Menteng,0,0
+2020,11,Jakarta Pusat,Menteng,1,0
+2020,12,Jakarta Pusat,Menteng,0,0
+2020,01,Jakarta Pusat,Sawah Besar,3,0
+2020,02,Jakarta Pusat,Sawah Besar,5,0
+2020,03,Jakarta Pusat,Sawah Besar,17,0
+2020,04,Jakarta Pusat,Sawah Besar,10,0
+2020,05,Jakarta Pusat,Sawah Besar,6,0
+2020,06,Jakarta Pusat,Sawah Besar,1,0
+2020,07,Jakarta Pusat,Sawah Besar,0,0
+2020,08,Jakarta Pusat,Sawah Besar,1,0
+2020,09,Jakarta Pusat,Sawah Besar,0,0
+2020,10,Jakarta Pusat,Sawah Besar,0,0
+2020,11,Jakarta Pusat,Sawah Besar,0,0
+2020,12,Jakarta Pusat,Sawah Besar,0,0
+2020,01,Jakarta Pusat,Senen,1,0
+2020,02,Jakarta Pusat,Senen,3,0
+2020,03,Jakarta Pusat,Senen,17,0
+2020,04,Jakarta Pusat,Senen,11,0
+2020,05,Jakarta Pusat,Senen,5,0
+2020,06,Jakarta Pusat,Senen,1,0
+2020,07,Jakarta Pusat,Senen,1,0
+2020,08,Jakarta Pusat,Senen,0,0
+2020,09,Jakarta Pusat,Senen,0,0
+2020,10,Jakarta Pusat,Senen,0,0
+2020,11,Jakarta Pusat,Senen,0,0
+2020,12,Jakarta Pusat,Senen,1,0
+2020,01,Jakarta Pusat,Tanah Abang,1,0
+2020,02,Jakarta Pusat,Tanah Abang,7,0
+2020,03,Jakarta Pusat,Tanah Abang,21,0
+2020,04,Jakarta Pusat,Tanah Abang,9,0
+2020,05,Jakarta Pusat,Tanah Abang,5,0
+2020,06,Jakarta Pusat,Tanah Abang,0,0
+2020,07,Jakarta Pusat,Tanah Abang,1,0
+2020,08,Jakarta Pusat,Tanah Abang,1,0
+2020,09,Jakarta Pusat,Tanah Abang,0,0
+2020,10,Jakarta Pusat,Tanah Abang,0,0
+2020,11,Jakarta Pusat,Tanah Abang,0,0
+2020,12,Jakarta Pusat,Tanah Abang,0,0
+2020,01,Jakarta Utara,Cilincing,4,0
+2020,02,Jakarta Utara,Cilincing,0,0
+2020,03,Jakarta Utara,Cilincing,12,0
+2020,04,Jakarta Utara,Cilincing,16,0
+2020,05,Jakarta Utara,Cilincing,13,0
+2020,06,Jakarta Utara,Cilincing,5,0
+2020,07,Jakarta Utara,Cilincing,7,0
+2020,08,Jakarta Utara,Cilincing,1,0
+2020,09,Jakarta Utara,Cilincing,1,0
+2020,10,Jakarta Utara,Cilincing,1,0
+2020,11,Jakarta Utara,Cilincing,1,0
+2020,12,Jakarta Utara,Cilincing,0,0
+2020,01,Jakarta Utara,Kelapa Gading,9,0
+2020,02,Jakarta Utara,Kelapa Gading,21,0
+2020,03,Jakarta Utara,Kelapa Gading,28,0
+2020,04,Jakarta Utara,Kelapa Gading,24,0
+2020,05,Jakarta Utara,Kelapa Gading,22,0
+2020,06,Jakarta Utara,Kelapa Gading,12,0
+2020,07,Jakarta Utara,Kelapa Gading,2,0
+2020,08,Jakarta Utara,Kelapa Gading,0,0
+2020,09,Jakarta Utara,Kelapa Gading,0,0
+2020,10,Jakarta Utara,Kelapa Gading,0,0
+2020,11,Jakarta Utara,Kelapa Gading,0,0
+2020,12,Jakarta Utara,Kelapa Gading,0,0
+2020,01,Jakarta Utara,Koja,15,0
+2020,02,Jakarta Utara,Koja,12,0
+2020,03,Jakarta Utara,Koja,19,0
+2020,04,Jakarta Utara,Koja,26,0
+2020,05,Jakarta Utara,Koja,21,0
+2020,06,Jakarta Utara,Koja,10,0
+2020,07,Jakarta Utara,Koja,5,0
+2020,08,Jakarta Utara,Koja,4,0
+2020,09,Jakarta Utara,Koja,1,0
+2020,10,Jakarta Utara,Koja,0,0
+2020,11,Jakarta Utara,Koja,1,0
+2020,12,Jakarta Utara,Koja,0,0
+2020,01,Jakarta Utara,Pademangan,5,0
+2020,02,Jakarta Utara,Pademangan,3,0
+2020,03,Jakarta Utara,Pademangan,15,0
+2020,04,Jakarta Utara,Pademangan,14,0
+2020,05,Jakarta Utara,Pademangan,2,0
+2020,06,Jakarta Utara,Pademangan,2,0
+2020,07,Jakarta Utara,Pademangan,1,0
+2020,08,Jakarta Utara,Pademangan,2,0
+2020,09,Jakarta Utara,Pademangan,1,0
+2020,10,Jakarta Utara,Pademangan,0,0
+2020,11,Jakarta Utara,Pademangan,0,0
+2020,12,Jakarta Utara,Pademangan,0,0
+2020,01,Jakarta Utara,Penjaringan,1,0
+2020,02,Jakarta Utara,Penjaringan,8,0
+2020,03,Jakarta Utara,Penjaringan,24,0
+2020,04,Jakarta Utara,Penjaringan,9,0
+2020,05,Jakarta Utara,Penjaringan,4,0
+2020,06,Jakarta Utara,Penjaringan,1,0
+2020,07,Jakarta Utara,Penjaringan,3,0
+2020,08,Jakarta Utara,Penjaringan,0,0
+2020,09,Jakarta Utara,Penjaringan,0,0
+2020,10,Jakarta Utara,Penjaringan,0,0
+2020,11,Jakarta Utara,Penjaringan,0,0
+2020,12,Jakarta Utara,Penjaringan,2,0
+2020,01,Jakarta Utara,Tanjung Priok,9,0
+2020,02,Jakarta Utara,Tanjung Priok,18,0
+2020,03,Jakarta Utara,Tanjung Priok,32,0
+2020,04,Jakarta Utara,Tanjung Priok,53,0
+2020,05,Jakarta Utara,Tanjung Priok,18,0
+2020,06,Jakarta Utara,Tanjung Priok,8,0
+2020,07,Jakarta Utara,Tanjung Priok,5,0
+2020,08,Jakarta Utara,Tanjung Priok,2,0
+2020,09,Jakarta Utara,Tanjung Priok,1,0
+2020,10,Jakarta Utara,Tanjung Priok,2,0
+2020,11,Jakarta Utara,Tanjung Priok,2,0
+2020,12,Jakarta Utara,Tanjung Priok,2,0
+2020,01,Jakarta Barat,Cengkareng,15,0
+2020,02,Jakarta Barat,Cengkareng,28,0
+2020,03,Jakarta Barat,Cengkareng,59,0
+2020,04,Jakarta Barat,Cengkareng,48,0
+2020,05,Jakarta Barat,Cengkareng,48,0
+2020,06,Jakarta Barat,Cengkareng,23,0
+2020,07,Jakarta Barat,Cengkareng,6,0
+2020,08,Jakarta Barat,Cengkareng,6,0
+2020,09,Jakarta Barat,Cengkareng,10,0
+2020,10,Jakarta Barat,Cengkareng,4,0
+2020,11,Jakarta Barat,Cengkareng,2,0
+2020,12,Jakarta Barat,Cengkareng,2,0
+2020,01,Jakarta Barat,Grogol Petamburan,8,0
+2020,02,Jakarta Barat,Grogol Petamburan,17,0
+2020,03,Jakarta Barat,Grogol Petamburan,36,0
+2020,04,Jakarta Barat,Grogol Petamburan,27,0
+2020,05,Jakarta Barat,Grogol Petamburan,10,0
+2020,06,Jakarta Barat,Grogol Petamburan,6,0
+2020,07,Jakarta Barat,Grogol Petamburan,0,0
+2020,08,Jakarta Barat,Grogol Petamburan,0,0
+2020,09,Jakarta Barat,Grogol Petamburan,0,0
+2020,10,Jakarta Barat,Grogol Petamburan,0,0
+2020,11,Jakarta Barat,Grogol Petamburan,4,0
+2020,12,Jakarta Barat,Grogol Petamburan,0,0
+2020,01,Jakarta Barat,Kalideres,22,0
+2020,02,Jakarta Barat,Kalideres,38,0
+2020,03,Jakarta Barat,Kalideres,105,0
+2020,04,Jakarta Barat,Kalideres,79,0
+2020,05,Jakarta Barat,Kalideres,63,0
+2020,06,Jakarta Barat,Kalideres,22,0
+2020,07,Jakarta Barat,Kalideres,10,0
+2020,08,Jakarta Barat,Kalideres,15,0
+2020,09,Jakarta Barat,Kalideres,8,0
+2020,10,Jakarta Barat,Kalideres,6,0
+2020,11,Jakarta Barat,Kalideres,11,0
+2020,12,Jakarta Barat,Kalideres,5,0
+2020,01,Jakarta Barat,Kebon Jeruk,7,0
+2020,02,Jakarta Barat,Kebon Jeruk,12,0
+2020,03,Jakarta Barat,Kebon Jeruk,21,0
+2020,04,Jakarta Barat,Kebon Jeruk,17,0
+2020,05,Jakarta Barat,Kebon Jeruk,10,0
+2020,06,Jakarta Barat,Kebon Jeruk,4,0
+2020,07,Jakarta Barat,Kebon Jeruk,3,0
+2020,08,Jakarta Barat,Kebon Jeruk,1,0
+2020,09,Jakarta Barat,Kebon Jeruk,0,0
+2020,10,Jakarta Barat,Kebon Jeruk,0,0
+2020,11,Jakarta Barat,Kebon Jeruk,2,0
+2020,12,Jakarta Barat,Kebon Jeruk,0,0
+2020,01,Jakarta Barat,Kembangan,7,0
+2020,02,Jakarta Barat,Kembangan,29,0
+2020,03,Jakarta Barat,Kembangan,60,0
+2020,04,Jakarta Barat,Kembangan,47,0
+2020,05,Jakarta Barat,Kembangan,36,0
+2020,06,Jakarta Barat,Kembangan,17,0
+2020,07,Jakarta Barat,Kembangan,2,0
+2020,08,Jakarta Barat,Kembangan,0,0
+2020,09,Jakarta Barat,Kembangan,0,0
+2020,10,Jakarta Barat,Kembangan,0,0
+2020,11,Jakarta Barat,Kembangan,3,0
+2020,12,Jakarta Barat,Kembangan,6,0
+2020,01,Jakarta Barat,Palmerah,8,0
+2020,02,Jakarta Barat,Palmerah,13,0
+2020,03,Jakarta Barat,Palmerah,29,0
+2020,04,Jakarta Barat,Palmerah,24,0
+2020,05,Jakarta Barat,Palmerah,8,0
+2020,06,Jakarta Barat,Palmerah,1,0
+2020,07,Jakarta Barat,Palmerah,0,0
+2020,08,Jakarta Barat,Palmerah,2,0
+2020,09,Jakarta Barat,Palmerah,0,0
+2020,10,Jakarta Barat,Palmerah,0,0
+2020,11,Jakarta Barat,Palmerah,1,0
+2020,12,Jakarta Barat,Palmerah,4,0
+2020,01,Jakarta Barat,Taman Sari,0,0
+2020,02,Jakarta Barat,Taman Sari,11,0
+2020,03,Jakarta Barat,Taman Sari,18,0
+2020,04,Jakarta Barat,Taman Sari,24,0
+2020,05,Jakarta Barat,Taman Sari,10,0
+2020,06,Jakarta Barat,Taman Sari,8,0
+2020,07,Jakarta Barat,Taman Sari,1,0
+2020,08,Jakarta Barat,Taman Sari,1,0
+2020,09,Jakarta Barat,Taman Sari,0,0
+2020,10,Jakarta Barat,Taman Sari,0,0
+2020,11,Jakarta Barat,Taman Sari,0,0
+2020,12,Jakarta Barat,Taman Sari,0,0
+2020,01,Jakarta Barat,Tambora,2,0
+2020,02,Jakarta Barat,Tambora,18,0
+2020,03,Jakarta Barat,Tambora,26,0
+2020,04,Jakarta Barat,Tambora,16,0
+2020,05,Jakarta Barat,Tambora,10,0
+2020,06,Jakarta Barat,Tambora,1,0
+2020,07,Jakarta Barat,Tambora,0,0
+2020,08,Jakarta Barat,Tambora,0,0
+2020,09,Jakarta Barat,Tambora,1,0
+2020,10,Jakarta Barat,Tambora,1,0
+2020,11,Jakarta Barat,Tambora,0,0
+2020,12,Jakarta Barat,Tambora,0,0
+2020,01,Jakarta Selatan,Cilandak,2,0
+2020,02,Jakarta Selatan,Cilandak,13,0
+2020,03,Jakarta Selatan,Cilandak,16,0
+2020,04,Jakarta Selatan,Cilandak,10,0
+2020,05,Jakarta Selatan,Cilandak,3,0
+2020,06,Jakarta Selatan,Cilandak,6,0
+2020,07,Jakarta Selatan,Cilandak,3,0
+2020,08,Jakarta Selatan,Cilandak,2,0
+2020,09,Jakarta Selatan,Cilandak,1,0
+2020,10,Jakarta Selatan,Cilandak,2,0
+2020,11,Jakarta Selatan,Cilandak,0,0
+2020,12,Jakarta Selatan,Cilandak,0,0
+2020,01,Jakarta Selatan,Jagakarsa,4,0
+2020,02,Jakarta Selatan,Jagakarsa,15,0
+2020,03,Jakarta Selatan,Jagakarsa,25,0
+2020,04,Jakarta Selatan,Jagakarsa,8,0
+2020,05,Jakarta Selatan,Jagakarsa,7,0
+2020,06,Jakarta Selatan,Jagakarsa,13,0
+2020,07,Jakarta Selatan,Jagakarsa,6,0
+2020,08,Jakarta Selatan,Jagakarsa,1,0
+2020,09,Jakarta Selatan,Jagakarsa,0,0
+2020,10,Jakarta Selatan,Jagakarsa,1,0
+2020,11,Jakarta Selatan,Jagakarsa,1,0
+2020,12,Jakarta Selatan,Jagakarsa,3,0
+2020,01,Jakarta Selatan,Kebayoran Baru,13,0
+2020,02,Jakarta Selatan,Kebayoran Baru,29,0
+2020,03,Jakarta Selatan,Kebayoran Baru,29,0
+2020,04,Jakarta Selatan,Kebayoran Baru,18,0
+2020,05,Jakarta Selatan,Kebayoran Baru,10,0
+2020,06,Jakarta Selatan,Kebayoran Baru,10,0
+2020,07,Jakarta Selatan,Kebayoran Baru,5,0
+2020,08,Jakarta Selatan,Kebayoran Baru,2,0
+2020,09,Jakarta Selatan,Kebayoran Baru,3,0
+2020,10,Jakarta Selatan,Kebayoran Baru,0,0
+2020,11,Jakarta Selatan,Kebayoran Baru,1,0
+2020,12,Jakarta Selatan,Kebayoran Baru,1,0
+2020,01,Jakarta Selatan,Kebayoran Lama,4,0
+2020,02,Jakarta Selatan,Kebayoran Lama,2,0
+2020,03,Jakarta Selatan,Kebayoran Lama,22,0
+2020,04,Jakarta Selatan,Kebayoran Lama,10,0
+2020,05,Jakarta Selatan,Kebayoran Lama,4,0
+2020,06,Jakarta Selatan,Kebayoran Lama,7,0
+2020,07,Jakarta Selatan,Kebayoran Lama,5,0
+2020,08,Jakarta Selatan,Kebayoran Lama,0,0
+2020,09,Jakarta Selatan,Kebayoran Lama,0,0
+2020,10,Jakarta Selatan,Kebayoran Lama,1,0
+2020,11,Jakarta Selatan,Kebayoran Lama,0,0
+2020,12,Jakarta Selatan,Kebayoran Lama,0,0
+2020,01,Jakarta Selatan,Mampang Prapatan,8,0
+2020,02,Jakarta Selatan,Mampang Prapatan,21,0
+2020,03,Jakarta Selatan,Mampang Prapatan,31,0
+2020,04,Jakarta Selatan,Mampang Prapatan,13,0
+2020,05,Jakarta Selatan,Mampang Prapatan,12,0
+2020,06,Jakarta Selatan,Mampang Prapatan,8,0
+2020,07,Jakarta Selatan,Mampang Prapatan,3,0
+2020,08,Jakarta Selatan,Mampang Prapatan,3,0
+2020,09,Jakarta Selatan,Mampang Prapatan,2,0
+2020,10,Jakarta Selatan,Mampang Prapatan,4,0
+2020,11,Jakarta Selatan,Mampang Prapatan,2,0
+2020,12,Jakarta Selatan,Mampang Prapatan,1,0
+2020,01,Jakarta Selatan,Pancoran,4,0
+2020,02,Jakarta Selatan,Pancoran,7,0
+2020,03,Jakarta Selatan,Pancoran,18,0
+2020,04,Jakarta Selatan,Pancoran,17,0
+2020,05,Jakarta Selatan,Pancoran,11,0
+2020,06,Jakarta Selatan,Pancoran,2,0
+2020,07,Jakarta Selatan,Pancoran,0,0
+2020,08,Jakarta Selatan,Pancoran,1,0
+2020,09,Jakarta Selatan,Pancoran,2,0
+2020,10,Jakarta Selatan,Pancoran,0,0
+2020,11,Jakarta Selatan,Pancoran,3,0
+2020,12,Jakarta Selatan,Pancoran,3,0
+2020,01,Jakarta Selatan,Pasar Minggu,9,0
+2020,02,Jakarta Selatan,Pasar Minggu,25,0
+2020,03,Jakarta Selatan,Pasar Minggu,35,0
+2020,04,Jakarta Selatan,Pasar Minggu,16,0
+2020,05,Jakarta Selatan,Pasar Minggu,14,0
+2020,06,Jakarta Selatan,Pasar Minggu,24,0
+2020,07,Jakarta Selatan,Pasar Minggu,12,0
+2020,08,Jakarta Selatan,Pasar Minggu,1,0
+2020,09,Jakarta Selatan,Pasar Minggu,1,0
+2020,10,Jakarta Selatan,Pasar Minggu,0,0
+2020,11,Jakarta Selatan,Pasar Minggu,1,0
+2020,12,Jakarta Selatan,Pasar Minggu,1,0
+2020,01,Jakarta Selatan,Pesanggrahan,18,0
+2020,02,Jakarta Selatan,Pesanggrahan,52,0
+2020,03,Jakarta Selatan,Pesanggrahan,68,0
+2020,04,Jakarta Selatan,Pesanggrahan,31,0
+2020,05,Jakarta Selatan,Pesanggrahan,30,0
+2020,06,Jakarta Selatan,Pesanggrahan,13,0
+2020,07,Jakarta Selatan,Pesanggrahan,5,0
+2020,08,Jakarta Selatan,Pesanggrahan,4,0
+2020,09,Jakarta Selatan,Pesanggrahan,2,0
+2020,10,Jakarta Selatan,Pesanggrahan,2,0
+2020,11,Jakarta Selatan,Pesanggrahan,1,0
+2020,12,Jakarta Selatan,Pesanggrahan,1,0
+2020,01,Jakarta Selatan,Setia Budi,0,0
+2020,02,Jakarta Selatan,Setia Budi,16,0
+2020,03,Jakarta Selatan,Setia Budi,19,0
+2020,04,Jakarta Selatan,Setia Budi,28,0
+2020,05,Jakarta Selatan,Setia Budi,6,0
+2020,06,Jakarta Selatan,Setia Budi,6,0
+2020,07,Jakarta Selatan,Setia Budi,5,0
+2020,08,Jakarta Selatan,Setia Budi,0,0
+2020,09,Jakarta Selatan,Setia Budi,0,0
+2020,10,Jakarta Selatan,Setia Budi,0,0
+2020,11,Jakarta Selatan,Setia Budi,0,0
+2020,12,Jakarta Selatan,Setia Budi,0,0
+2020,01,Jakarta Selatan,Tebet,0,0
+2020,02,Jakarta Selatan,Tebet,5,0
+2020,03,Jakarta Selatan,Tebet,23,0
+2020,04,Jakarta Selatan,Tebet,22,0
+2020,05,Jakarta Selatan,Tebet,13,0
+2020,06,Jakarta Selatan,Tebet,6,0
+2020,07,Jakarta Selatan,Tebet,4,0
+2020,08,Jakarta Selatan,Tebet,0,0
+2020,09,Jakarta Selatan,Tebet,1,0
+2020,10,Jakarta Selatan,Tebet,1,0
+2020,11,Jakarta Selatan,Tebet,0,0
+2020,12,Jakarta Selatan,Tebet,0,0
+2020,01,Jakarta Timur,Cakung,4,0
+2020,02,Jakarta Timur,Cakung,11,0
+2020,03,Jakarta Timur,Cakung,73,0
+2020,04,Jakarta Timur,Cakung,56,0
+2020,05,Jakarta Timur,Cakung,68,0
+2020,06,Jakarta Timur,Cakung,17,0
+2020,07,Jakarta Timur,Cakung,8,0
+2020,08,Jakarta Timur,Cakung,0,0
+2020,09,Jakarta Timur,Cakung,3,0
+2020,10,Jakarta Timur,Cakung,1,0
+2020,11,Jakarta Timur,Cakung,0,0
+2020,12,Jakarta Timur,Cakung,3,0
+2020,01,Jakarta Timur,Cipayung,9,0
+2020,02,Jakarta Timur,Cipayung,13,0
+2020,03,Jakarta Timur,Cipayung,38,0
+2020,04,Jakarta Timur,Cipayung,20,0
+2020,05,Jakarta Timur,Cipayung,23,0
+2020,06,Jakarta Timur,Cipayung,11,0
+2020,07,Jakarta Timur,Cipayung,5,0
+2020,08,Jakarta Timur,Cipayung,1,0
+2020,09,Jakarta Timur,Cipayung,2,0
+2020,10,Jakarta Timur,Cipayung,0,0
+2020,11,Jakarta Timur,Cipayung,4,0
+2020,12,Jakarta Timur,Cipayung,6,0
+2020,01,Jakarta Timur,Ciracas,10,0
+2020,02,Jakarta Timur,Ciracas,12,0
+2020,03,Jakarta Timur,Ciracas,25,0
+2020,04,Jakarta Timur,Ciracas,10,0
+2020,05,Jakarta Timur,Ciracas,22,0
+2020,06,Jakarta Timur,Ciracas,9,0
+2020,07,Jakarta Timur,Ciracas,7,0
+2020,08,Jakarta Timur,Ciracas,8,0
+2020,09,Jakarta Timur,Ciracas,2,0
+2020,10,Jakarta Timur,Ciracas,3,0
+2020,11,Jakarta Timur,Ciracas,7,0
+2020,12,Jakarta Timur,Ciracas,14,0
+2020,01,Jakarta Timur,Duren Sawit,9,0
+2020,02,Jakarta Timur,Duren Sawit,25,0
+2020,03,Jakarta Timur,Duren Sawit,43,0
+2020,04,Jakarta Timur,Duren Sawit,85,0
+2020,05,Jakarta Timur,Duren Sawit,35,0
+2020,06,Jakarta Timur,Duren Sawit,17,0
+2020,07,Jakarta Timur,Duren Sawit,1,0
+2020,08,Jakarta Timur,Duren Sawit,2,0
+2020,09,Jakarta Timur,Duren Sawit,1,0
+2020,10,Jakarta Timur,Duren Sawit,0,0
+2020,11,Jakarta Timur,Duren Sawit,0,0
+2020,12,Jakarta Timur,Duren Sawit,0,0
+2020,01,Jakarta Timur,Jatinegara,9,0
+2020,02,Jakarta Timur,Jatinegara,19,0
+2020,03,Jakarta Timur,Jatinegara,34,0
+2020,04,Jakarta Timur,Jatinegara,38,0
+2020,05,Jakarta Timur,Jatinegara,16,0
+2020,06,Jakarta Timur,Jatinegara,7,0
+2020,07,Jakarta Timur,Jatinegara,4,0
+2020,08,Jakarta Timur,Jatinegara,5,0
+2020,09,Jakarta Timur,Jatinegara,0,0
+2020,10,Jakarta Timur,Jatinegara,0,0
+2020,11,Jakarta Timur,Jatinegara,0,0
+2020,12,Jakarta Timur,Jatinegara,1,0
+2020,01,Jakarta Timur,Kramat Jati,7,0
+2020,02,Jakarta Timur,Kramat Jati,23,0
+2020,03,Jakarta Timur,Kramat Jati,57,0
+2020,04,Jakarta Timur,Kramat Jati,30,0
+2020,05,Jakarta Timur,Kramat Jati,41,1
+2020,06,Jakarta Timur,Kramat Jati,18,0
+2020,07,Jakarta Timur,Kramat Jati,8,0
+2020,08,Jakarta Timur,Kramat Jati,6,0
+2020,09,Jakarta Timur,Kramat Jati,2,0
+2020,10,Jakarta Timur,Kramat Jati,3,0
+2020,11,Jakarta Timur,Kramat Jati,4,0
+2020,12,Jakarta Timur,Kramat Jati,4,0
+2020,01,Jakarta Timur,Makasar,10,0
+2020,02,Jakarta Timur,Makasar,7,0
+2020,03,Jakarta Timur,Makasar,22,0
+2020,04,Jakarta Timur,Makasar,22,0
+2020,05,Jakarta Timur,Makasar,12,0
+2020,06,Jakarta Timur,Makasar,12,0
+2020,07,Jakarta Timur,Makasar,2,0
+2020,08,Jakarta Timur,Makasar,2,0
+2020,09,Jakarta Timur,Makasar,1,0
+2020,10,Jakarta Timur,Makasar,2,0
+2020,11,Jakarta Timur,Makasar,0,0
+2020,12,Jakarta Timur,Makasar,0,0
+2020,01,Jakarta Timur,Matraman,0,0
+2020,02,Jakarta Timur,Matraman,16,0
+2020,03,Jakarta Timur,Matraman,52,0
+2020,04,Jakarta Timur,Matraman,28,0
+2020,05,Jakarta Timur,Matraman,21,0
+2020,06,Jakarta Timur,Matraman,4,0
+2020,07,Jakarta Timur,Matraman,1,0
+2020,08,Jakarta Timur,Matraman,1,0
+2020,09,Jakarta Timur,Matraman,1,0
+2020,10,Jakarta Timur,Matraman,0,0
+2020,11,Jakarta Timur,Matraman,0,0
+2020,12,Jakarta Timur,Matraman,0,0
+2020,01,Jakarta Timur,Pasar Rebo,19,0
+2020,02,Jakarta Timur,Pasar Rebo,29,0
+2020,03,Jakarta Timur,Pasar Rebo,35,0
+2020,04,Jakarta Timur,Pasar Rebo,14,0
+2020,05,Jakarta Timur,Pasar Rebo,14,0
+2020,06,Jakarta Timur,Pasar Rebo,21,0
+2020,07,Jakarta Timur,Pasar Rebo,5,0
+2020,08,Jakarta Timur,Pasar Rebo,0,0
+2020,09,Jakarta Timur,Pasar Rebo,3,0
+2020,10,Jakarta Timur,Pasar Rebo,2,0
+2020,11,Jakarta Timur,Pasar Rebo,4,0
+2020,12,Jakarta Timur,Pasar Rebo,0,0
+2020,01,Jakarta Timur,Pulo Gadung,2,0
+2020,02,Jakarta Timur,Pulo Gadung,18,0
+2020,03,Jakarta Timur,Pulo Gadung,39,0
+2020,04,Jakarta Timur,Pulo Gadung,28,0
+2020,05,Jakarta Timur,Pulo Gadung,18,0
+2020,06,Jakarta Timur,Pulo Gadung,7,0
+2020,07,Jakarta Timur,Pulo Gadung,1,0
+2020,08,Jakarta Timur,Pulo Gadung,0,0
+2020,09,Jakarta Timur,Pulo Gadung,0,0
+2020,10,Jakarta Timur,Pulo Gadung,0,0
+2020,11,Jakarta Timur,Pulo Gadung,0,0
+2020,12,Jakarta Timur,Pulo Gadung,0,0
+2020,01,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,02,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,1,0
+2020,03,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,04,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,05,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,06,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,07,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,08,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,09,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,10,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,11,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,12,Kabupaten Kepulauan Seribu,Kep. Seribu Selatan,0,0
+2020,01,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,4,0
+2020,02,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,03,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,04,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,05,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,06,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,07,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,08,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,09,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,10,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,11,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
+2020,12,Kabupaten Kepulauan Seribu,Kep. Seribu Utara,0,0
